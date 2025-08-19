@@ -1,0 +1,14 @@
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\bin\Debug\net9.0\ExemploAula.exe
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\bin\Debug\net9.0\ExemploAula.deps.json
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\bin\Debug\net9.0\ExemploAula.runtimeconfig.json
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\bin\Debug\net9.0\ExemploAula.dll
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\bin\Debug\net9.0\ExemploAula.pdb
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\obj\Debug\net9.0\ExemploAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\obj\Debug\net9.0\ExemploAula.AssemblyInfoInputs.cache
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\obj\Debug\net9.0\ExemploAula.AssemblyInfo.cs
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\obj\Debug\net9.0\ExemploAula.csproj.CoreCompileInputs.cache
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\obj\Debug\net9.0\ExemploAula.dll
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\obj\Debug\net9.0\refint\ExemploAula.dll
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\obj\Debug\net9.0\ExemploAula.pdb
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\obj\Debug\net9.0\ExemploAula.genruntimeconfig.cache
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ExemploAula\obj\Debug\net9.0\ref\ExemploAula.dll
