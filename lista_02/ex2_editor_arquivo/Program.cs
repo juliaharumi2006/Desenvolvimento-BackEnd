@@ -1,0 +1,1 @@
+﻿Arquivo a1 = new Arquivo()
