@@ -1,0 +1,15 @@
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\obj\Debug\net9.0\ex2_editor_arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\obj\Debug\net9.0\ex2_editor_arquivo.AssemblyInfoInputs.cache
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\obj\Debug\net9.0\ex2_editor_arquivo.AssemblyInfo.cs
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\obj\Debug\net9.0\ex2_editor_arquivo.csproj.CoreCompileInputs.cache
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\obj\Debug\net9.0\ex2_editor_arquivo.sourcelink.json
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\bin\Debug\net9.0\ex2_editor_arquivo.exe
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\bin\Debug\net9.0\ex2_editor_arquivo.deps.json
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\bin\Debug\net9.0\ex2_editor_arquivo.runtimeconfig.json
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\bin\Debug\net9.0\ex2_editor_arquivo.dll
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\bin\Debug\net9.0\ex2_editor_arquivo.pdb
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\obj\Debug\net9.0\ex2_editor_arquivo.dll
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\obj\Debug\net9.0\refint\ex2_editor_arquivo.dll
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\obj\Debug\net9.0\ex2_editor_arquivo.pdb
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\obj\Debug\net9.0\ex2_editor_arquivo.genruntimeconfig.cache
+C:\Users\Júlia Harumi\Desktop\Desenvolvimento BackEnd\lista_02\ex2_editor_arquivo\obj\Debug\net9.0\ref\ex2_editor_arquivo.dll
