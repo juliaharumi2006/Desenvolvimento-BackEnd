@@ -1,3 +1,5 @@
+using System.Drawing;
+
 namespace Models.BaseShapes;
 
 public class MyRectangle : Shape
@@ -6,11 +8,13 @@ public class MyRectangle : Shape
 
 
     //Contrutores
-    public MyRectangle(int x, int y, Color color, int width, int height) : base(x, y, color, width, height)
+    public MyRectangle(int x, int y, int width, int height) : base(x, y, width, height)
+    {}
+    public MyRectangle(int screenWidth, int screenHeight) : base(screenWidth, screenHeight)
     {}
 
     //Métodos
-    public void Draw(Graphics g)
+    public override void Draw(Graphics g)
     {
         SolidBrush brush = new SolidBrush(ColorShape);
         g.FillRectangle(brush, X, Y, Width, Height);
